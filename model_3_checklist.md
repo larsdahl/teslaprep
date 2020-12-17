@@ -3,10 +3,8 @@
 *Todoist users can import this checklist as a new Project [using this link](https://bit.ly/Model3Checklist). For more information about Todoist templates [Click Here](https://get.todoist.help/hc/en-us/articles/208821185-Importing-Exporting-Project-Templates)*
 
 ## SECTION A - Verify pre-delivery vehicle records
-- [ ] 1.  Check for the correct full name and address on your paperwork.
 - [ ] 2.  Confirm the vehicle's VIN matches your paperwork.
 - [ ] 3.  Check the vehicle's display screen for any information that does not match the vehicle (found by tapping the Tesla "T").
-- [ ] 4.  Verify that the vehicle's Moroney record matches your configuration.
 
 ## SECTION B - Exterior inspection
 - [ ] 1.  Verify that the vehicle's body color, interior, and wheels match what you configured.
@@ -18,7 +16,6 @@
 - [ ] 7.  Check for proper windshield and windshield trim installation.
 - [ ] 8.  Inspect all edges of the roof glass panel and rear window.
 - [ ] 9.  Test all doors to ensure they open and close without unreasonable effort or sound. Check paint in areas such as door hinges, that are not visible when doors are closed. *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
-- [ ] 10.  Test power liftgate operation on trunk.
 - [ ] 11.  Test opening and closing of trunk and frunk. Check paint in areas that are not visible when frunk and trunk are closed.  *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
 - [ ] 12.  Check for the towing eye under the frunk mat.
 - [ ] 13.  Ensure door windows auto-close completely when doors are closed.
@@ -76,13 +73,6 @@
 - [ ] 1.  Check the charge port door for proper operation.
 - [ ] 2.  Check charge port indicator light.
 - [ ] 3.  Ensure the vehicle will accept a charge.
-- [ ] 4.  Check the mobile charging kit. Test it to ensure it works.
-    -  J1772 adapter.
-	-  NEMA 5-15 120v adapter.
-	-  Mobile Connector with cable.
-
-## SECTION F - Verify region-specific equipment
-- [ ] 1.  Maryland deliveries should include Tesla's official inflation kit.
 
 ## SECTION G - Inspect pairing connectivity
 - [ ] 1.  Test both key cards to ensure they work with your vehicle. Keep one key card on your person in case the phone app does not operate properly.
